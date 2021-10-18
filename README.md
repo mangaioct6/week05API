@@ -5,3 +5,4 @@
 ![](week_05/Lat_vs_WindSpeed_Seaborn.png)
 ![](week_05/Lat_vs_Temp_Seaborn.png)
 ![](week_05/Lat_vs_Cloudiness_Seaborn.png)
+![](week_05/Lat_vs_Humidity_Seaborn.png)
